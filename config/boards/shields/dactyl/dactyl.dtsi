@@ -105,4 +105,5 @@
             inversion-on;
             prechargep = <0x22>;
         };
+    };
 };
